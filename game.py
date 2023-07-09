@@ -2,7 +2,6 @@
 import pygame
 from pygame.locals import *
 import random
-from termcolor import colored, cprint
 
 # Initializing the game
 pygame.init()
@@ -244,10 +243,8 @@ while running:
 
 # When The Game is Over, The Window Closes
 
-game_over = colored('*************** GAME OVER ***************', 'red')
-
 print("\n")
-print(game_over)
+print('*************** GAME OVER ***************')
 print("\n")
 
 pygame.quit()
