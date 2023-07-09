@@ -1,7 +1,7 @@
 # CAR RACING GAME
 
 ## What's this game about?
-The game is a car racing game made by [Oussama Jabrane]('https://github.com/Oussama-Jabrane') using Python and the Pygame module
+The game is a car racing game made by [Oussama Jabrane](https://github.com/Oussama-Jabrane) using Python and the Pygame module
 
 ## How to install the source code into my machine?
 > git clone https://github.com/Oussama-jabrane/car-racing-game.git
